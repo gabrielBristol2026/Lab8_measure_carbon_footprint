@@ -24,5 +24,5 @@ Detect Hardware:
 codecarbon detect
 
 ## To code carbon code: 
-codecarbon monitor -- bash run_experiments.sh 0.001,0.01 5 
+codecarbon monitor -- bash solution_run_experiments_V2.sh 0.001,0.01 5 
 
